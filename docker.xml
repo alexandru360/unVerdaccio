@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<Maintainer>
+    <Icon>https://avatars.githubusercontent.com/u/2664775?v=4</Icon>
+    <Profile>
+        Creating Docker containers.
+    </Profile>
+</Maintainer>
 <Container version="2">
     <Name>unVerdaccio</Name>
     <Repository>verdaccio/verdaccio</Repository>
