@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-    <Name>Javascript-Verdacio</Name>
+    <Name>unVerdaccio</Name>
     <Repository>verdaccio/verdaccio</Repository>
     <Registry>https://hub.docker.com/r/verdaccio/verdaccio</Registry>
     <Network>bridge</Network>
