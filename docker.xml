@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Container version="2">
+    <Name>Javascript-Verdacio</Name>
+    <Repository>verdaccio/verdaccio</Repository>
+    <Registry>https://hub.docker.com/r/verdaccio/verdaccio</Registry>
+    <Network>bridge</Network>
+    <MyIP/>
+    <Shell>sh</Shell>
+    <Privileged>false</Privileged>
+    <Support/>
+    <Project/>
+    <Overview>An official clone of the Verdaccio Docker</Overview>
+    <Category>Cloud: Productivity:</Category>
+    <WebUI>http://[IP]:[PORT:8443]/</WebUI>
+    <TemplateURL/>
+    <Icon>https://cdn.verdaccio.dev/readme/verdaccio@2x.png</Icon>
+    <ExtraParams/>
+    <PostArgs/>
+    <CPUset/>
+    <DateInstalled>1660660299</DateInstalled>
+    <DonateText/>
+    <DonateLink/>
+    <Requires/>
+    <Config Name="Port" Target="8443" Default="" Mode="tcp" Description="" Type="Port" Display="always" Required="false"
+            Mask="false">8443
+    </Config>
+</Container>
