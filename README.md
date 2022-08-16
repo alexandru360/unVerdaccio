@@ -1,2 +1,2 @@
-# unVerdacio
-Unraid verdacio server
+# unVerdaccio
+Unraid verdaccio server (javascript private npm server)
